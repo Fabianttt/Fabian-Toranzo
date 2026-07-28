@@ -29,6 +29,15 @@ Degree      : Bachelor of Science in Cybersecurity
 Program     : NSA Designated National Center of Academic Excellence
 Status      : Currently Enrolled
 ```
+</td>
+
+<td width="45%" valign="top" align="center">
+
+<img src="./profile-terminal.png" width="100%">
+
+</td>
+</tr>
+</table>
 
 ## 📜 Certifications
 
@@ -109,12 +118,3 @@ I'm actively looking for someone experienced in infrastructure, Linux, Windows S
 If you're willing to answer questions, review projects, or provide guidance as I grow, I'd genuinely appreciate connecting with you.
 
 I'm always building, learning, and open to feedback.
-</td>
-
-<td width="45%" align="center" valign="top">
-
-<img src="./profile-terminal.png" width="100%">
-
-</td>
-</tr>
-</table>
