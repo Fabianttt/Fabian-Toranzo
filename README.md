@@ -18,6 +18,15 @@ Miami Dade College
 Current Goal:
 → Systems Administrator
 ```
+</td>
+
+<td width="45%" valign="top" align="center">
+
+<img src="./profile-terminal.png" width="100%">
+
+</td>
+</tr>
+</table>
 
 ## 🎓 Education
 
@@ -29,15 +38,7 @@ Degree      : Bachelor of Science in Cybersecurity
 Program     : NSA Designated National Center of Academic Excellence
 Status      : Currently Enrolled
 ```
-</td>
 
-<td width="45%" valign="top" align="center">
-
-<img src="./profile-terminal.png" width="100%">
-
-</td>
-</tr>
-</table>
 
 ## 📜 Certifications
 
