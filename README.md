@@ -5,34 +5,106 @@
 
 ---
 
-## About Me
+# 👋 Hi, I'm Fabian Toranzo
 
-Cybersecurity student focused on infrastructure, Linux administration, virtualization, networking, and system security.
+```console
+visitor@github:~$ whoami
 
-I enjoy building and managing homelab environments, understanding how systems operate from the hardware up, and developing practical experience through hands-on projects.
+Fabian Toranzo
+B.S. Cybersecurity Student
+Miami Dade College 
 
-## Certifications
+Current Goal:
+→ Systems Administrator
+```
 
-- CompTIA Linux+
-- CompTIA Network+
-- CompTIA Security+
+## 🎓 Education
 
-## Current Projects
+```console
+visitor@github:~$ education
 
-- Proxmox homelab environment
-- Self-hosted Nextcloud server
-- Docker containers and services
-- Windows Server and Active Directory labs
-- Networking and infrastructure documentation
-- Firmware and embedded-security research
+Institution : Miami Dade College
+Degree      : Bachelor of Science in Cybersecurity
+Program     : NSA Designated National Center of Academic Excellence
+Status      : Currently Enrolled
+```
 
-## Technical Skills
+## 📜 Certifications
 
-```text
-Operating Systems : Linux, Windows, Windows Server
-Virtualization    : Proxmox VE, VMware
-Containers        : Docker
-Networking        : TCP/IP, DNS, DHCP, VLANs
-Languages         : Python, Bash, PowerShell
-Security          : System hardening, network security, threat hunting
-Tools             : Git, GitHub, Nmap, Wireshark, Ghidra
+```console
+visitor@github:~$ certs --list
+
+[✓] CompTIA Linux+
+[✓] CompTIA Network+
+[✓] CompTIA Security+
+```
+
+## 🖥️ Homelab
+
+```console
+visitor@github:~$ ls ~/homelab
+
+Dell PowerEdge T620
+├── Proxmox VE
+├── Virtual Machines
+├── Linux
+├── Windows Server
+└── Self-hosted Raid Cloud
+```
+
+## 💡 Interests
+
+```console
+visitor@github:~$ cat interests.txt
+
+• Enterprise Infrastructure
+• Linux Administration
+• Windows Server
+• Networking
+• Virtualization
+• Self-hosting
+• Cybersecurity
+```
+
+## 🎯 Five-Year Goal
+
+```console
+visitor@github:~$ roadmap
+
+Current
+└── B.S. Cybersecurity Student
+
+↓
+
+Hands-on Infrastructure Experience
+
+↓
+
+Systems Administrator
+
+↓
+
+Senior Infrastructure / Server Administrator
+```
+
+## 📚 Currently Learning
+
+```console
+visitor@github:~$ learning
+
+> Linux Administration
+> Windows Server
+> Active Directory
+> Networking
+> Virtualization
+> PowerShell
+> Python
+```
+
+## 🤝 Looking for a Mentor
+
+I'm actively looking for someone experienced in infrastructure, Linux, Windows Server, or networking who enjoys teaching.
+
+If you're willing to answer questions, review projects, or provide guidance as I grow, I'd genuinely appreciate connecting with you.
+
+I'm always building, learning, and open to feedback.
